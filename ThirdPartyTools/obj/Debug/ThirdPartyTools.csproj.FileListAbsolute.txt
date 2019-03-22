@@ -1,0 +1,6 @@
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csprojAssemblyReference.cache
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+D:\Projects\Visual Stuio 2017\DeveloperTestExercise-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
