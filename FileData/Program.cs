@@ -59,8 +59,8 @@ namespace FileData
             Console.WriteLine("If the first argument is anyone of –s, --s, /s, --size then application returns the size of the file.");
             Console.WriteLine("");
             Console.WriteLine("Example:");
-            Console.WriteLine(applicationName + " –v c:\test.txt");
-            Console.WriteLine(applicationName + " –s c:\test.txt");
+            Console.WriteLine(applicationName + " –v c:\\test.txt");
+            Console.WriteLine(applicationName + " –s c:\\test.txt");
         }
 
         //Requirements:
